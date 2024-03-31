@@ -35,6 +35,9 @@ ul li {
     font-size: 60px;
     color: navy;
 }
+.content h2 {
+    color: purple;
+}
 hr {
     margin-top: 30px;
     width: 20%;
