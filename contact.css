@@ -1,17 +1,14 @@
-/* Resetting default styles */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
   }
   
-  /* Body styles */
   body {
     font-family: Arial, sans-serif;
     background-color: #f8f8f8;
   }
-  
-  /* Header styles */
+
   header {
     background-color: #333;
     color: #fff;
@@ -23,12 +20,10 @@
     margin: 0;
   }
   
-  /* Main styles */
   main {
     padding: 20px;
   }
   
-  /* Section styles */
   section {
     margin-bottom: 30px;
   }
@@ -37,12 +32,10 @@
     color: #333;
   }
   
-  /* Address styles */
   address {
     color: #666;
   }
   
-  /* Form styles */
   form {
     background-color: #fff;
     padding: 20px;
@@ -84,7 +77,6 @@
     background-color: #555;
   }
   
-  /* Footer styles */
   footer {
     background-color: #333;
     color: #fff;
