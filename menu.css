@@ -1,0 +1,92 @@
+body {
+    background-color: #e9d6cd;
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.established {
+    font-style: italic;
+}
+
+h1, h2, p {
+    text-align: center;
+}
+
+.menu {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.menu-items {
+    display: flex;
+    justify-content: space-around;
+}
+
+.column {
+    flex: 1;
+    margin: 0 10px;
+}
+
+hr {
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+}
+
+.bottom-line {
+    margin-top: 25px;
+}
+
+.item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.item p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.flavor, .dessert {
+    flex: 0 0 70%;
+    text-align: left;
+}
+
+.price {
+    flex: 0 0 25%;
+    text-align: right;
+}
+
+footer {
+    font-size: 14px;
+}
+
+a {
+    color: black;
+}
+
+a:visited {
+    color: violet;
+}
+
+a:hover {
+    color: brown;
+}
+
+a:active {
+    color: brown;
+}
