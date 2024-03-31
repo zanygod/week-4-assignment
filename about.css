@@ -49,4 +49,6 @@
       padding: 0 10px;
     }
   }
-  
+  figcaption {
+      text-align: center;
+  }
