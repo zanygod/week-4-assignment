@@ -29,15 +29,19 @@
   }
   
   h2 {
-    color: #333;
+    color: #861794;
+    text-align: center;
   }
-  
+    p{
+    text-align: center;
+  }
   address {
-    color: #666;
+    color: #666
+    text-align: center;  
   }
   
   form {
-    background-color: #fff;
+    background-color: #f1ca9a;
     padding: 20px;
     border-radius: 5px;
   }
@@ -57,7 +61,7 @@
   textarea {
     width: 100%;
     padding: 10px;
-    border: 1px solid #ccc;
+    border: 1px solid #8fd078;
     border-radius: 5px;
     box-sizing: border-box;
     margin-top: 5px;
