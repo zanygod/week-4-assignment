@@ -8,9 +8,9 @@
     font-family: Arial, sans-serif;
     background-color: bisque;
   }
-
+  
   header {
-     background-color: burlywood;
+    background-color: burlywood;
     color: navy;
     padding: 20px;
     text-align: center;
@@ -32,14 +32,15 @@
     color: #861794;
     text-align: center;
   }
-    p{
+  p{
     text-align: center;
   }
-  address {
-    color: #666
-    text-align: center;  
-  }
   
+  address {
+    color: #666;
+    text-align: center;
+  }
+ 
   form {
     background-color: #f1ca9a;
     padding: 20px;
@@ -69,8 +70,8 @@
   
   button {
     padding: 10px 20px;
-    background-color: #333;
-    color: #fff;
+    background-color: #cf6a6a;
+    color: #f3f5f5;
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -78,7 +79,7 @@
   }
   
   button:hover {
-    background-color: #555;
+    background-color: #abd644;
   }
   
   footer {
