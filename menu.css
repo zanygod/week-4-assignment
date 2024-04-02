@@ -14,17 +14,14 @@ h1 {
 h2 {
     font-size: 30px;
 }
-
 .established {
     color: rgb(15, 9, 140);
     font-style: italic;
 }
-
 h1, h2, p {
     color: rgb(15, 9, 140);
     text-align: center;
 }
-
 .menu {
     max-width: 900px;
     margin: 0 auto;
