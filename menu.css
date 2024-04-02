@@ -3,21 +3,25 @@ body {
     font-family: sans-serif;
     padding: 20px;
 }
+
 h1 {
     font-size: 40px;
     margin-top: 0;
     margin-bottom: 15px;
+    border: solid wheat;
 }
+
 h2 {
     font-size: 30px;
-    color: violet;
 }
 
 .established {
+    color: rgb(15, 9, 140);
     font-style: italic;
 }
 
 h1, h2, p {
+    color: rgb(15, 9, 140);
     text-align: center;
 }
 
@@ -58,7 +62,6 @@ hr {
     margin-bottom: 5px;
     font-size: 18px;
     text-align: center;
-    color: navy;
 }
 
 .flavor, .dessert {
@@ -72,15 +75,15 @@ hr {
 }
 
 footer {
-    font-size: 14px; 
+    font-size: 14px;
 }
 
 a {
-    color: black;
+    color: rgb(55, 15, 177);
 }
 
 a:visited {
-    color: violet;
+    color: rgb(35, 5, 127);
 }
 
 a:hover {
@@ -88,5 +91,15 @@ a:hover {
 }
 
 a:active {
-    color: brown;
+    color: rgb(15, 100, 87);
+}
+#video-bg {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -1000;
 }
