@@ -12,6 +12,7 @@ h1 {
 
 h2 {
     font-size: 30px;
+    color: violet;
 }
 
 .established {
@@ -59,6 +60,7 @@ hr {
     margin-bottom: 5px;
     font-size: 18px;
     text-align: center;
+    color: navy;
 }
 
 .flavor, .dessert {
